@@ -4,7 +4,8 @@ Nas páginas escolha o download de acordo com o sistema operacional
 
 #### [JDK8](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html)
 
-##### [Configurar ORACLE_HOME](#)
+#### [Configurar JAVA_HOME Rwindows](https://confluence.atlassian.com/confbr1/configurando-a-variavel-java_home-no-windows-933709538.html)
+#### [Configurar JAVA_HOME Linux](https://receitasdecodigo.com.br/ubuntu/como-configurar-java_home-para-java-no-ubuntu)
 
 
 #### [Oracle express edition](https://www.oracle.com/database/technologies/xe-downloads.html)
