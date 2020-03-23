@@ -8,8 +8,8 @@ Nas páginas escolha o download de acordo com o sistema operacional
 #### [Configurar JAVA_HOME Linux](https://receitasdecodigo.com.br/ubuntu/como-configurar-java_home-para-java-no-ubuntu)
 
 
-#### [Oracle Express Edition](https://www.oracle.com/database/technologies/oracle-database-software-downloads.html#11g)
-#### [Instalar Oracle XE](https://docs.oracle.com/cd/E11882_01/index.htm)
+#### [Oracle Express Edition](https://www.oracle.com/database/technologies/xe-prior-releases.html)
+
 
 #### [Eclipse IDE](https://www.eclipse.org/downloads/packages/release/mars/r/eclipse-ide-java-ee-developers)
 
