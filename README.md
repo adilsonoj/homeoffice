@@ -9,7 +9,7 @@ Nas páginas escolha o download de acordo com o sistema operacional
 
 
 #### [Oracle Express Edition](https://www.oracle.com/database/technologies/xe-prior-releases.html)
-
+#### [Guia instalação Oracle XE 11g](https://docs.oracle.com/cd/E17781_01/install.112/e18803/toc.htm)
 
 #### [Eclipse IDE](https://www.eclipse.org/downloads/packages/release/mars/r/eclipse-ide-java-ee-developers)
 
